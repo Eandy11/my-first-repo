@@ -4,13 +4,6 @@
 # ignores all files with file type of anything after .env, i.e. .env.local, .env.production, etc...
 .env*
 
-<<<<<<< HEAD
-=======
-# files
-*.css
-*.js
-
->>>>>>> d48278eda63cc64e07c7fd2bcb3a24070f02eb63
 # misc
 .vscode
 /folder_name
