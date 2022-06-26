@@ -1,0 +1,9 @@
+# local env files
+# only ignores file ending in .env
+.env
+# ignores all files with file type of anything after .env, i.e. .env.local, .env.production, etc...
+.env*
+
+# misc
+.vscode
+/folder_name
